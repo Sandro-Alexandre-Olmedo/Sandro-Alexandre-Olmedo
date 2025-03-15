@@ -1,4 +1,4 @@
-![Marketing](https://github.com/Sandro-Alexandre-Olmedo/machine-learning-para-estimativa-do-valor-em-estoque-modulo-25.11-Ebac/blob/b6e5391c09a06242dbf82a4a52ee8e3b549aa498/marketing2.jpg)
+![Marketing](https://github.com/Sandro-Alexandre-Olmedo/Sandro-Alexandre-Olmedo/blob/45aa7342d9b538af73afb01adeeded2c40122d5f/data-analytics.webp)
 
 # Analista de Dados 👋
 
