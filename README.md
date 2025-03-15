@@ -1,6 +1,6 @@
 # Analista de Dados 👋
 
-### Sobre min:
+## Sobre min:
 - Formado em Ciências Contábeis pela Universidade Paulista(Unip).
 - Apaixonado por TI relacionado a dados, Excel, Power BI, Locker Studio...
 
