@@ -1,8 +1,8 @@
 # Analista de Dados 👋
 
-### Sobre o Sandro:
-Formado em Ciências Contábeis pela Universidade Paulista(Unip).
-Apaixonado por TI relacionado a dados, Excel, Power BI, Locker Studio...
+### Sobre min:
+- Formado em Ciências Contábeis pela Universidade Paulista(Unip).
+- Apaixonado por TI relacionado a dados, Excel, Power BI, Locker Studio...
 
 ## Habilidades:
 
