@@ -1,7 +1,8 @@
 # Analista de Dados 👋
 
 ### Sobre o Sandro:
-Formado em Ciências Contábeis pela Universidade Paulista(Unip). Apaixonado por TI relacionado a dados, Excel, Power BI, Locker Studio...
+Formado em Ciências Contábeis pela Universidade Paulista(Unip).
+Apaixonado por TI relacionado a dados, Excel, Power BI, Locker Studio...
 
 ## Habilidades:
 
@@ -12,16 +13,12 @@ Formado em Ciências Contábeis pela Universidade Paulista(Unip). Apaixonado por
 ![Telegram](https://img.shields.io/badge/-Telegram_Bots-blue?style=flat-square&logo=telegram) 
 ![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-
 ## Detalhes:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandro-Alexandre-Olmedo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## Linguagens utilizadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-Alexandre-Olmedo&langs_count=8)
-
 
 ## Contato:
 
