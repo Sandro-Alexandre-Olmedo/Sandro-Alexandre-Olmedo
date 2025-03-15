@@ -1,6 +1,7 @@
-![data analys](https://github.com/Sandro-Alexandre-Olmedo/Sandro-Alexandre-Olmedo/blob/45aa7342d9b538af73afb01adeeded2c40122d5f/data-analytics.webp)
+![data analyst](https://github.com/Sandro-Alexandre-Olmedo/Sandro-Alexandre-Olmedo/blob/45aa7342d9b538af73afb01adeeded2c40122d5f/data-analytics.webp)
 
-# Analista de Dados 👋
+# Analista de Dados 
+# Data Analyst
 
 ## Sobre min:
 - Formado em Ciências Contábeis pela Universidade Paulista(Unip).
