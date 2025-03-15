@@ -17,6 +17,8 @@
 ![Amazon AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-yellowgreen)
 
+![Looker Studio](https://img.shields.io/badge/Looker-Studio-blue)
+
 ## Detalhes:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandro-Alexandre-Olmedo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
